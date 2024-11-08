@@ -4,5 +4,11 @@
 			Buff = nil,
 			Cash = 80,
 		},
-	}
+	},
+	Codes = {
+		Rewards = {
+			Buff = nil,
+			Cash = 350,
+		},
+	},
 }
