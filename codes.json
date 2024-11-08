@@ -10,5 +10,11 @@
 			"Buff": null,
 			"Cash": 350
 		}
-	}
+	},
+	"Cats": {
+		"Rewards": {
+			"Buff": null,
+			"Cash": 500
+		}
+	},
 }
