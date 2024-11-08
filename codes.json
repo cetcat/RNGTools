@@ -16,5 +16,11 @@
 			"Buff": "catsluck",
 			"Cash": 500
 		}
+	},
+	"NewBiome": {
+		"Rewards": {
+			"Buff": null,
+			"Cash": 2500,
+		}
 	}
 }
