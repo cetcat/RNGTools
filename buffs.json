@@ -1,0 +1,140 @@
+{
+  "CosmicLuck": {
+    "Luck": 100,
+    "Rolls": 1,
+    "DisplayText": "Cosmic Luck",
+    "HoverText": "100x Luck for One Roll."
+  },
+  "OutOfTheWorldLuck": {
+    "Luck": 1000,
+    "Rolls": 1,
+    "DisplayText": "Out Of The World Luck",
+    "HoverText": "1,000x Luck for One Roll."
+  },
+  "TooBigLuck": {
+    "Luck": 10000,
+    "Rolls": 1,
+    "DisplayText": "INSANE Luck",
+    "HoverText": "10,000x Luck for One Roll."
+  },
+  "fastspeed": {
+    "RollSpeed": 10,
+    "Seconds": 120,
+    "DisplayText": "Atomic Roll Speed",
+    "HoverText": "10x Roll Speed, Nothing else to say here."
+  },
+  "EpikLuck": {
+    "Luck": 10,
+    "Rolls": 3,
+    "DisplayText": "Epik Luck",
+    "HoverText": "10x Luck for 3 Rolls."
+  },
+  "commonspeed": {
+    "RollSpeed": 1.3,
+    "Seconds": 600,
+    "DisplayText": "Common Roll Speed",
+    "HoverText": "1.3X Roll Speed For 10 Minutes."
+  },
+  "commonluck": {
+    "Luck": 2,
+    "Seconds": 420,
+    "DisplayText": "Common Luck",
+    "HoverText": "2X Luck for 7 Minutes."
+  },
+  "ObbyLuck": {
+    "Luck": 1.5,
+    "Seconds": 60,
+    "DisplayText": "Basic Luck",
+    "HoverText": "1.5x more luck."
+  },
+  "InSafe": {
+    "Luck": 0,
+    "Rolls": 0,
+    "DisplayText": "Safe Zone",
+    "HoverText": "You can't roll attacks."
+  },
+  "questluck1": {
+    "DisplayText": "Quest Luck",
+    "Luck": 2,
+    "Seconds": 1800,
+    "RollSpeed": 0.2,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck2": {
+    "DisplayText": "Quest Luck",
+    "Luck": 3,
+    "Seconds": 1800,
+    "RollSpeed": 0.5,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck3": {
+    "DisplayText": "Quest Luck",
+    "Luck": 3.5,
+    "Seconds": 1800,
+    "RollSpeed": 1,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck4": {
+    "DisplayText": "Quest Luck",
+    "Luck": 3,
+    "Seconds": 1800,
+    "RollSpeed": 2,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck5": {
+    "DisplayText": "Quest Luck",
+    "Luck": 2.1,
+    "Seconds": 1800,
+    "RollSpeed": 0.6,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck6": {
+    "DisplayText": "Quest Luck",
+    "Luck": 2.6,
+    "Seconds": 2100,
+    "RollSpeed": 0.9,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck7": {
+    "DisplayText": "Quest Luck",
+    "Luck": 0.4,
+    "Seconds": 1740,
+    "RollSpeed": 0.2,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck8": {
+    "DisplayText": "Quest Luck",
+    "Luck": 0.7,
+    "Seconds": 1740,
+    "RollSpeed": 0.1,
+    "HoverText": "You got this from a quest."
+  },
+  "questluck9": {
+    "DisplayText": "Quest Luck",
+    "Luck": 1,
+    "Seconds": 1740,
+    "RollSpeed": 0.9,
+    "HoverText": "You got this from a quest."
+  },
+  "obbyquestluck": {
+    "DisplayText": "Quest Luck",
+    "Luck": 0.5,
+    "Seconds": 1740,
+    "RollSpeed": 0.2,
+    "HoverText": "You got this from a quest."
+  },
+  "obbyquestluck5": {
+    "DisplayText": "Quest Luck",
+    "Luck": 1.5,
+    "Seconds": 1740,
+    "RollSpeed": 1.2,
+    "HoverText": "You got this from a quest."
+  },
+  "catsluck": {
+    "DisplayText": "Cat Luck",
+    "Luck": 2,
+    "Seconds": 300,
+    "RollSpeed": 2,
+    "HoverText": "You got this from a code, 2x luck and 2x rollspeed."
+  }
+}
