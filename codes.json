@@ -1,0 +1,8 @@
+{
+	Beta = {
+		Rewards = {
+			Buff = nil,
+			Cash = 80,
+		},
+	}
+}
