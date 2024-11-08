@@ -1,14 +1,14 @@
 {
 	"Beta": {
 		"Rewards": {
-			"Buff": "nil",
+			"Buff": null,
 			"Cash": 80
-		},
+		}
 	},
 	"Codes": {
 		"Rewards": {
-			"Buff": "nil",
+			"Buff": null,
 			"Cash": 350
-		},
+		}
 	}
 }
