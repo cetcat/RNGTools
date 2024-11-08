@@ -13,7 +13,7 @@
 	},
 	"Cats": {
 		"Rewards": {
-			"Buff": null,
+			"Buff": "catsluck",
 			"Cash": 500
 		}
 	}
